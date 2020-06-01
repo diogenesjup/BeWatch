@@ -238,7 +238,7 @@ As CUSTOM METAS ficam salvas no wp-admin, em cada detalhe do pedido:
 ![Documentação técnica BeWatch - 2018/2020](https://www.diogenesjunior.com.br/docs/logica-produtos5.jpg)
 
 ## Conclusão e observações finais
-- Qualquer dúvida técnica pode ser enviada para contato@diogenesjunior.com.br<br>
+- Qualquer dúvida técnica pode ser enviada exclusivamente nesse diretório https://github.com/diogenesjup/Documentacao-tecnica-BeWatch/issues . Dúvidas enviadas através de outros canais não serão respondidas.<br>
 - Atualizar o WordPress ou o WooCommerce para a versão mais recente é totalmente seguro e recomendado.A única ressalva aqui é referente os plugins que não estão listados nesse documento, por que não sei como será o comportamento dele.
 - O bug do estoque para novos produtos (relatados na descrição do arquivo script-db.php) se da por causa que ao adicionar um novo produto, por alguma razão, ele já começa com o status do estoque OUT OF STOCK, mesmo se duplicando de um produto com estoque. Para corrigir isso, o script em questão da um UPDATE em todo o banco, deixando todos eles em estoque (a administração da BeWatch não utiliza estoque único por produto):<br><br>
 <i>
