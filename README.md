@@ -223,7 +223,7 @@ Cada produto adicionado ao carrinho, terá diferentes opções personalizadas pe
 Para adicionar o CUSTOM META ao produto do carrinho WooCoommerce, temos um filtro que é acionado quando enviamos a chave via POST, como pode ser visto abaixo, usando como exemplo PULSEIRA
 </p>
 
-<script src="https://gist.github.com/diogenesjup/2609465edcac14319153f2d55e1b6da2.js"></script>
+{% gist 2609465 %}
 
 <p>
 Para o print da imagem a lógica é parecida, mas precisamos salvar o código binário da imagem (BASE64) em uma imagem real dentro do servidor, isso é feito através do código:
