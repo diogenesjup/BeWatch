@@ -1,6 +1,6 @@
 ![Documentação técnica BeWatch - 2018/2020](https://www.diogenesjunior.com.br/docs/bewatch.jpg)
 
-> Documentação técnica BeWatch WordPress/WooCommerce theme Janeiro de 2018 à Maio de 2020
+> Documentação técnica BeWatch (legado) WordPress/WooCommerce theme Janeiro de 2018 à Maio de 2020
 
 
 <h2 align:"center">Informações técnicas e manual do desenvolvedor BeWatch.</h2>
@@ -9,6 +9,11 @@
 > Atenção:
 <p>
 Essa documentação irá abordar apenas os itens que foram feitos originalmente para o tema, baseados no desenvolvimento feito por Diogenes Junior. Alguns itens dentro do tema foram feitos por outros programadores, e não temos informações suficiêntes sobre o porque de algumas escolhas deles, ou suas funcionalidades, bugs e outras características.
+</p>
+
+> Atenção:
+<p>
+Essa documentação retrata a versão antiga do site, ou seja, não serve para o site atual em novembro de 2021
 </p>
 
 
